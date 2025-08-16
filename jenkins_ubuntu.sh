@@ -1,4 +1,5 @@
 #!/bin/bash
+# script for jenkins installation
 set -e
 sudo apt update -y
 sudo apt upgrade -y
